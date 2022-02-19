@@ -34,7 +34,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-HOME PAGE:
+###HOME PAGE:
 
 <!DOCTYPE html>
 <html lang="en">
@@ -360,7 +360,7 @@ HOME PAGE:
     </div>
 </body>
 </html>
-GENERAL MESSAGE:
+###GENERAL MESSAGE:
 
 !DOCTYPE html>
 <html lang="en">
@@ -585,7 +585,7 @@ GENERAL MESSAGE:
     </footer>
 </body>
 </html>
-ABOUT US:
+###ABOUT US:
 
 <!DOCTYPE html>
 <html lang="en">
